@@ -8,4 +8,4 @@ Descriere:prin acest proiect poti sa accesezi camera telefonului si poti sa faci
 
 Pe ce sistem de operare ruleaza:html, javascript, css,nodejs with npm
 
-![alt text](https://github.com/lazea1997/camera/blob/master/camera%202.png
+![alt text](https://github.com/lazea1997/camera/blob/master/camera%202.png)
