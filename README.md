@@ -1,4 +1,4 @@
 # camera
 facultate
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/lazea1997/camera/blob/master/img.jpg "Logo Title Text 1")
